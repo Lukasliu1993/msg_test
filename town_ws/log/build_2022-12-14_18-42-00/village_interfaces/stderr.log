@@ -1,0 +1,34 @@
+cmake -E touch_nocreate: failed to update "cmake -E touch_nocreate: failed to update "rosidl_generator_c/village_interfaces/msg/detail/novel__functions.hrosidl_generator_c/village_interfaces/msg/detail/novel__type_support.h".
+".
+cmake -E touch_nocreate: failed to update "rosidl_generator_c/village_interfaces/msg/detail/novel__functions.c".
+make[2]: *** [CMakeFiles/village_interfaces__rosidl_generator_c.dir/build.make:179: rosidl_generator_c/village_interfaces/msg/detail/novel__functions.h] Error 1
+cmake -E touch_nocreate: failed to update "make[2]: *** Deleting file 'rosidl_generator_c/village_interfaces/msg/detail/novel__functions.h'
+rosidl_generator_c/village_interfaces/msg/detail/novel__struct.h".
+make[2]: unlink: rosidl_generator_c/village_interfaces/msg/detail/novel__functions.h: Permission denied
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/village_interfaces__rosidl_generator_c.dir/build.make:188: rosidl_generator_c/village_interfaces/msg/detail/novel__functions.c] Error 1
+make[2]: *** Deleting file 'rosidl_generator_c/village_interfaces/msg/detail/novel__functions.c'
+make[2]: unlink: rosidl_generator_c/village_interfaces/msg/detail/novel__functions.c: Permission denied
+make[2]: *** [CMakeFiles/village_interfaces__rosidl_generator_c.dir/build.make:185: rosidl_generator_c/village_interfaces/msg/detail/novel__type_support.h] Error 1
+make[2]: *** Deleting file 'rosidl_generator_c/village_interfaces/msg/detail/novel__type_support.h'
+make[2]: unlink: rosidl_generator_c/village_interfaces/msg/detail/novel__type_support.h: Permission denied
+make[2]: *** [CMakeFiles/village_interfaces__rosidl_generator_c.dir/build.make:182: rosidl_generator_c/village_interfaces/msg/detail/novel__struct.h] Error 1
+make[2]: *** Deleting file 'rosidl_generator_c/village_interfaces/msg/detail/novel__struct.h'
+make[2]: unlink: rosidl_generator_c/village_interfaces/msg/detail/novel__struct.h: Permission denied
+make[1]: *** [CMakeFiles/Makefile2:209: CMakeFiles/village_interfaces__rosidl_generator_c.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+cmake -E touch_nocreate: failed to update "rosidl_generator_cpp/village_interfaces/msg/detail/novel__struct.hpp".
+cmake -E touch_nocreate: failed to update "rosidl_generator_cpp/village_interfaces/msg/detail/novel__builder.hpp".
+cmake -E touch_nocreate: failed to update "rosidl_generator_cpp/village_interfaces/msg/detail/novel__traits.hpp".
+make[2]: *** [CMakeFiles/village_interfaces__cpp.dir/build.make:186: rosidl_generator_cpp/village_interfaces/msg/detail/novel__struct.hpp] Error 1
+make[2]: *** Deleting file 'rosidl_generator_cpp/village_interfaces/msg/detail/novel__struct.hpp'
+make[2]: unlink: rosidl_generator_cpp/village_interfaces/msg/detail/novel__struct.hpp: Permission denied
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/village_interfaces__cpp.dir/build.make:183: rosidl_generator_cpp/village_interfaces/msg/detail/novel__builder.hpp] Error 1
+make[2]: *** Deleting file 'rosidl_generator_cpp/village_interfaces/msg/detail/novel__builder.hpp'
+make[2]: unlink: rosidl_generator_cpp/village_interfaces/msg/detail/novel__builder.hpp: Permission denied
+make[2]: *** [CMakeFiles/village_interfaces__cpp.dir/build.make:189: rosidl_generator_cpp/village_interfaces/msg/detail/novel__traits.hpp] Error 1
+make[2]: *** Deleting file 'rosidl_generator_cpp/village_interfaces/msg/detail/novel__traits.hpp'
+make[2]: unlink: rosidl_generator_cpp/village_interfaces/msg/detail/novel__traits.hpp: Permission denied
+make[1]: *** [CMakeFiles/Makefile2:342: CMakeFiles/village_interfaces__cpp.dir/all] Error 2
+make: *** [Makefile:146: all] Error 2
